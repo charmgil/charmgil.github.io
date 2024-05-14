@@ -3,24 +3,23 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: (first_name)@handong.edu
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+82-54-260-1309](tel:+82-54-260-1309)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> Newton Hall #201
 >
-> London
+> Handong-ro 558, Buk-gu, Pohang
 >
-> United Kingdom
+> Gyeongbuk, Republic of Korea
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+- [LinkedIn](https://linkedin.com/in/charmgil)
+
