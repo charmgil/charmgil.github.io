@@ -41,7 +41,7 @@ I am interested in developing and applying machine learning/data mining techniqu
 
 
 #### Domestic venues
-* Harim Kim, Yeseul Kim, Yohan Sohn, Hyo Jung Cho, Soon Sun Kim, Ji Eun Han, Jae Youn Cheong, Charmgil Hong. Prediction of Drug-Induced Liver Injuries Using Transformer. KIISE Transactions on Computing Practices (KTCP). 2024. (in press)
+* Harim Kim, Yeseul Kim, Yohan Sohn, Hyo Jung Cho, Soon Sun Kim, Ji Eun Han, Jae Youn Cheong, Charmgil Hong. Prediction of Drug-Induced Liver Injuries Using Transformer. KIISE Transactions on Computing Practices (KTCP). 2024. *(in press)*
 * Jihyeon Song, Soon Sun Kim, Ji Eun Han, Hyo Jung Cho, Jae Youn Cheong, Charmgil Hong. Improving Prediction of Chronic Hepatitis B TreatmentResponse Using Molecular Embedding. Journal of KIISE. 2024. <span class="res">[Paper](https://www.kiise.or.kr/e_journal/2024/7/JOK/06.pdf){:target="_blank"}</span>
 * Geonyeong Choi, Hyunwoo Yook, Jeong-Woo Han, Charmgil Hong. Prediction of Dehydrogenation Enthalpy Using Graph Isomorphism Network. Journal of KIISE. 2024. <span class="res">[Paper](https://www.kiise.or.kr/e_journal/2024/5/JOK/03.pdf){:target="_blank"}</span>
 * Jihyun Moon, Seong Kyung Kim, Hee Song Kim, Soon Sun Kim, Ji Eun Han, Hyo Jung Cho, Jae Youn Cheong, Charmgil Hong. Prediction of Drug Adverse Reactions in Chronic Hepatitis B Patients Using FT-Transformer. Korea Computer Congress (KCC). 2024. <!--<span class="res">[Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11851190){:target="_blank"}</span>-->
