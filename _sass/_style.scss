@@ -36,8 +36,14 @@ hr {
     font-size:0.815em;
 }
 .res {
-    color: #333333;
     font-size:0.785em;
+}
+.res a {
+    color: #333333; /* Link color will inherit the color from its parent */
+    text-decoration: none; /* Remove underline from links */
+}
+.res a:hover {
+    text-decoration: underline; /* Underline links on hover */
 }
 
 
