@@ -76,7 +76,7 @@ I am interested in developing and applying machine learning/data mining techniqu
 
 ## Presentations
 
-* Harim Kim, Hyo Jung Cho, Soon Sun Kim, Ji Eun Han, Jae Youn Cheong, Charmgil Hong. Personalized Prediction of Drug-Induced Liver Injury Using the Transformer Architecture. The Liver Week (TLW) 2024. <span style="color:blue"><sup>*Best Presentation Award*</sup></span>
+* Harim Kim, Hyo Jung Cho, Soon Sun Kim, Ji Eun Han, Jae Youn Cheong, Charmgil Hong. Personalized Prediction of Drug-Induced Liver Injury Using the Transformer Architecture. The Liver Week (TLW) 2024. <span class="award">*Best Presentation Award*</span>
 * Ye Jun Kim, Jae Geun Jang, Soon Sun Kim, Hyo Jung Cho, Ji Eun Han, Jae Youn Cheong, Charmgil Hong. Analysis of a Machine Learning-Based Predictive Model for Hepatocellular Carcinoma in Chronic Hepatitis B Patients. The Liver Week (TLW) 2024.
 * Geonyeong Choi, Charmgil Hong. Analysis of Drug Inducing Liver Injury: A Graph-Based Machine Learning Approach. The Liver Week (TLW) 2024.
 * Ye Jun Kim, Jae Geun Jang, Soon Sun Kim, Jae Youn Cheong, Charmgil Hong. Analysis of a Machine Learning-Based Predictive Model for Hepatocellular Carcinoma in Chronic Hepatitis B Patients. Korean Society of Medical Informatics. Spring, 2024.
