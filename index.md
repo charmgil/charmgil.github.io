@@ -22,7 +22,8 @@ I am interested in developing and applying machine learning/data mining techniqu
 #### International venues
 
 * Harim Kim, Chang Ha Lee, Charmgil Hong. Transformer for Point Anomaly Detection. ACM International Conference on Information and Knowledge Management (CIKM). 2024. *(to appear)*
-* Jaemin Jung, Soonyong Park, Harim Kim, Chang Ha Lee, Charmgil Hong. Artificial Intelligence-Driven Video Indexing for Rapid Surveillance Footage Summarization and Review. International Joint Conference on Artificial Intelligence (IJCAI) Demo Track. 2024. *(to appear)* <span style="font-size:0.8em;">[Code](https://github.com/nth221/videx)</span>
+* Jaemin Jung, Soonyong Park, Harim Kim, Chang Ha Lee, Charmgil Hong. Artificial Intelligence-Driven Video Indexing for Rapid Surveillance Footage Summarization and Review. International Joint Conference on Artificial Intelligence (IJCAI) Demo Track. 2024. *(to appear)* <span class="res">[Code](https://github.com/nth221/videx)</span>
+<!--<span style="font-size:0.8em;">[Code](https://github.com/nth221/videx)</span>-->
 * Harim Kim, Minchae Kim, Taewoo Kim, Kyujin Cho, Charmgil Hong. AREST: Attention-Based Red-Light Violation Detection for Safety Technology. IEEE International Conference on Advanced Video and Signal-Based Surveillance (AVSS). 2024. <span class="award">*Best Paper Award*</span>
 <!--<span style="color:darkblue"><sup>*Best Paper Award*</sup></span>-->
 * Harim Kim, Chang Ha Lee, Charmgil Hong. VATMAN: Video Anomaly Transformer for Monitoring Accidents and Nefariousness. IEEE International Conference on Advanced Video and Signal-Based Surveillance (AVSS). 2024.
