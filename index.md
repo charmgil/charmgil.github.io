@@ -116,6 +116,7 @@ I am interested in developing and applying machine learning/data mining techniqu
 
 ## Contact
 - (first_name)@handong.edu
+- LinkedIn: [charmgil](https://www.linkedin.com/in/charmgil/){:target="_blank"}
 
 
 
