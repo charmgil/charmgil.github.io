@@ -120,6 +120,9 @@ I am interested in developing and applying machine learning/data mining techniqu
 ## Dissertation
 * Multivariate Data Modeling and Its Applications to Conditional Outlier Detection. Doctoral Dissertation, University of Pittsburgh. 2017. <span class="res">[Link](https://d-scholarship.pitt.edu/33223/){:target="_blank"}</span>
 
+
+
+
 ## Intellectual Property
 #### Patents
 - R. Ghosh, C. Hong, and S. Srinivasan. “Value Addition Dependent Data Mining Techniques for Assembly Lines.” US Patent Application No. 15/342,677.
