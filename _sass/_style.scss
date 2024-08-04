@@ -33,19 +33,19 @@ hr {
     vertical-align: super;
     color: darkblue;
     font-style: italic;
-    font-size:0.875em;
+    font-size:0.815em;
 }
 .res {
-    font-size:0.845em;
+    font-size:0.785em;
     vertical-align: middle;
 }
-.res a {
-    color: #333333; /* Link color will inherit the color from its parent */
-    text-decoration: none; /* Remove underline from links */
-}
-.res a:hover {
-    text-decoration: underline; /* Underline links on hover */
-}
+// .res a {
+//     color: $accent; 
+//     text-decoration: none; 
+// }
+// .res a:hover {
+//     text-decoration: underline; 
+// }
 
 
 /*
