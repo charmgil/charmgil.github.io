@@ -54,10 +54,10 @@
         }
     }
     .logo-image {
-        height: $image-size * 1.0 * 0.9;
-        width: $image-size * 0.872 * 0.9;
+        height: $image-size * 1.0;
+        width: $image-size * 0.872;
         position: relative;
-	margin: -10px 0 0 10px;
+	margin: -20px 0 0 10px;
         float: right;
         border-radius: 0%;
         p & {
