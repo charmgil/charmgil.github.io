@@ -86,11 +86,30 @@ I am interested in developing and applying machine learning/data mining techniqu
 * Harim Kim, Hyo Jung Cho, Soon Sun Kim, Ji Eun Han, Jae Youn Cheong, Charmgil Hong. Personalized Prediction of Drug-Induced Liver Injury Using the Transformer Architecture. The Liver Week (TLW) 2024. <span class="award">*Best Presentation Award*</span>
 * Ye Jun Kim, Jae Geun Jang, Soon Sun Kim, Hyo Jung Cho, Ji Eun Han, Jae Youn Cheong, Charmgil Hong. Analysis of a Machine Learning-Based Predictive Model for Hepatocellular Carcinoma in Chronic Hepatitis B Patients. The Liver Week (TLW) 2024.
 * Geonyeong Choi, Charmgil Hong. Analysis of Drug Inducing Liver Injury: A Graph-Based Machine Learning Approach. The Liver Week (TLW) 2024.
-* Ye Jun Kim, Jae Geun Jang, Soon Sun Kim, Jae Youn Cheong, Charmgil Hong. Analysis of a Machine Learning-Based Predictive Model for Hepatocellular Carcinoma in Chronic Hepatitis B Patients. Korean Society of Medical Informatics. Spring, 2024.
-* Harim Kim, Minchae Kim, Taewoo Kim, Kyujin Cho, Charmgil Hong. Red-Light Violation Detection Using Attention Mechanism in Dashcam Footage. Korea Multimedia Society. Spring, 2024.
-* Hyesun Chun, Haeun Yoon, Ahhyun Kum, Chanju Lee, Hyungyu Choi, Charmgil Hong. Development of a Korean Parallel Corpus and a Machine Translation Model for South and North Korean. Korea Multimedia Society. Spring, 2024. <span class="award">*Best Paper Award*</span>
-* Chaewon Kim, Seeun Park, Harim Kim, Taewoo Kim, Kyujin Cho, Charmgil Hong. A Method for Lane Recognition and Departure Detection Using Dashcam Videos. Korea Multimedia Society. Spring, 2024. <span class="award">*Best Paper Award*</span>
-* Hasung Cho, Hyeyoon Jung, Soon Sun Kim, Hyo Jung Cho, Ji Eun Han, Jae Youn Cheong, Charmgil Hong. Improving in Adverse Effects Predictions Induced by Long-Term Antiviral Therapy for Chronic Hepatitis B Patients Using Drug Ontologies. Korean Society of Medical Informatics. Fall, 2023.
+* Ye Jun Kim, Jae Geun Jang, Soon Sun Kim, Jae Youn Cheong, Charmgil Hong. Analysis of a Machine Learning-Based Predictive Model for Hepatocellular Carcinoma in Chronic Hepatitis B Patients. Korean Society of Medical Informatics, Spring. 2024.
+* Harim Kim, Minchae Kim, Taewoo Kim, Kyujin Cho, Charmgil Hong. Red-Light Violation Detection Using Attention Mechanism in Dashcam Footage. Korea Multimedia Society, Spring. 2024.
+* Hyesun Chun, Haeun Yoon, Ahhyun Kum, Chanju Lee, Hyungyu Choi, Charmgil Hong. Development of a Korean Parallel Corpus and a Machine Translation Model for South and North Korean. Korea Multimedia Society, Spring. 2024. <span class="award">*Best Paper Award*</span>
+* Chaewon Kim, Seeun Park, Harim Kim, Taewoo Kim, Kyujin Cho, Charmgil Hong. A Method for Lane Recognition and Departure Detection Using Dashcam Videos. Korea Multimedia Society, Spring. 2024. <span class="award">*Best Paper Award*</span>
+
+<!--2023-->
+* Hasung Cho, Hyeyoon Jung, Soon Sun Kim, Hyo Jung Cho, Ji Eun Han, Jae Youn Cheong, Charmgil Hong. Improving in Adverse Effects Predictions Induced by Long-Term Antiviral Therapy for Chronic Hepatitis B Patients Using Drug Ontologies. Korean Society of Medical Informatics, Fall. 2023.
+* Jihyun Moon, Soon Sun Kim, Hyo Jung Cho, Ji Eun Han, Jae Youn Cheong, Charmgil Hong. Analysis of Variable Importance Using Machine Learning for Predicting Adverse Drug Reactions in Patients with Chronic Hepatitis B. Korean Society of Medical Informatics, Spring. 2023.
+* Myeong Ju Lim, Min Ji Park, Eunsol Park, Jae Youn Cheong, Soon Sun Kim, Hyo Jung Cho, Ji Eun Han, Charmgil Hong. Predicting Abnormal Liver Enzyme Levels in Antiviral Patients Using a Multi-Layer Bidirectional Long Short-Term Memory Architecture. Korean Society of Medical Informatics, Spring. 2023.
+* Jihyeon Song, Soon Sun Kim, Hyo Jung Cho, Ji Eun Han, Jae Youn Cheong, Charmgil Hong. Improving the Predictive Accuracy of Antiviral Response for Chronic Hepatitis B Patients Using Molecular Graph Representation. Korean Society of Medical Informatics, Spring. 2023.
+
+<!--2022-->
+* Harim Kim, Hyo Jung Cho, Jae Youn Cheong, Charmgil Hong. Lenvatinib Efficacy Prediction Using Liver CT Images and a Pre-trained 3D-CNN. Korean Society of Medical Informatics, Fall. 2022.
+* Juwon Baek, Geonyeong Choi, Jae Youn Cheong, Hyo Jung Cho, Soon Sun Kim, Ji Eun Han, Min-Seo Shim, Charmgil Hong. Development of Drug Induced Liver Injury Prediction Model Based on Electronic Medical Record and Machine Learning. Korean Society of Medical Informatics, Fall. 2022.
+* Jihee (Eunsol) Park, Byung-Ho Nam, Charmgil Hong. Prediction of Pancreatic Cancer Risk Using Deep Survival Analysis Models. Korean Society of Medical Informatics, Fall. 2022.
+* Geonyeong Choi, Jae Youn Cheong, Hyo Jung Cho, Soon Sun Kim, Hyewon Jo, Charmgil Hong. Learning Molecular Embeddings for the Prediction of Drug Induced Liver Injury Using Graph Neural Networks. Korean Society of Medical Informatics, Spring. 2022. <span class="award">*Best Paper Award*</span>
+* Jihyeon Song, Jae Youn Cheong, Soon Sun Kim, Hyo Jung Cho, Ji Eun Han, Min-Seo Shim, Kyoung Jin Lee, Chi Yong Ban, Charmgil Hong. Prediction of Antiviral Treatment Response in Chronic Hepatitis B Using Machine Learning. Korean Society of Medical Informatics, Spring. 2022.
+* Sueun Park, Hyoyoung Seok, Jae Youn Cheong, Soon Sun Kim, Hyo Jung Cho, Ji Eun Han, Min-Seo Shim, Kyoung Jin Lee, Chi Yong Ban, Charmgil Hong. Prediction of Adverse Effects Induced by Long-Term Antiviral Therapy for Chronic Hepatitis B. Korean Society of Medical Informatics, Spring. 2022.
+
+<!--older-->
+* Charmgil Hong, Siqi Liu, Milos Hauskrecht. Detection of Unusual Input-Output Associations. SIAM Workshop on Dimension Reduction. 2017. 
+* Charmgil Hong, Rumi Ghosh, Soundar Srinivasan. Dealing with Class Imbalance Using Thresholding. KDD 2016 Workshop on Outlier Definition, Detection, and Description on Demand. 2016. <span class="res">[Paper](https://arxiv.org/abs/1607.02705){:target="_blank"}</span>
+* Charmgil Hong, Milos Hauskrecht. Analysis of Temporal Clinical Patterns using Hidden Markov Models. ICML 2012 Workshop on Clinical Data Analysis. 2012. <span class="res">[Paper](https://people.cs.pitt.edu/~charmgil/sharepoint/papers/Poster_Hong_ICML_Clinical_2012.pdf){:target="_blank"}</span>
+
 
 
 
