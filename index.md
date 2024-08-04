@@ -21,8 +21,8 @@ I am interested in developing and applying machine learning/data mining techniqu
 
 #### International venues
 
-* Harim Kim, Chang Ha Lee, Charmgil Hong. Transformer for Point Anomaly Detection. ACM International Conference on Information and Knowledge Management (CIKM). 2024.
-* Jaemin Jung, Soonyong Park, Harim Kim, Chang Ha Lee, Charmgil Hong. Artificial Intelligence-Driven Video Indexing for Rapid Surveillance Footage Summarization and Review. International Joint Conference on Artificial Intelligence (IJCAI) Demo Track. 2024.
+* Harim Kim, Chang Ha Lee, Charmgil Hong. Transformer for Point Anomaly Detection. ACM International Conference on Information and Knowledge Management (CIKM). 2024. *(to appear)*
+* Jaemin Jung, Soonyong Park, Harim Kim, Chang Ha Lee, Charmgil Hong. Artificial Intelligence-Driven Video Indexing for Rapid Surveillance Footage Summarization and Review. International Joint Conference on Artificial Intelligence (IJCAI) Demo Track. 2024. *(to appear)* <!--<span style="font-size:0.8em; color:fuchia">[Code](https://github.com/nth221/videx)</span>-->
 * Harim Kim, Minchae Kim, Taewoo Kim, Kyujin Cho, Charmgil Hong. AREST: Attention-Based Red-Light Violation Detection for Safety Technology. IEEE International Conference on Advanced Video and Signal-Based Surveillance (AVSS). 2024. <span style="color:blue"><sup>*Best Paper Award*</sup></span>
 * Harim Kim, Chang Ha Lee, Charmgil Hong. VATMAN: Video Anomaly Transformer for Monitoring Accidents and Nefariousness. IEEE International Conference on Advanced Video and Signal-Based Surveillance (AVSS). 2024.
 * Geonyeong Choi, Hyo Jung Cho, Soon Sun Kim, Ji Eun Han, Jae Youn Cheong, Charmgil Hong. Drug Induced Liver Injury Prediction with Injective Molecular Transformer. IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI). 2023.
@@ -44,13 +44,33 @@ I am interested in developing and applying machine learning/data mining techniqu
 * Harim Kim, Yeseul Kim, Yohan Sohn, Hyo Jung Cho, Soon Sun Kim, Ji Eun Han, Jae Youn Cheong, Charmgil Hong. Prediction of Drug-Induced Liver Injuries Using Transformer. KIISE Transactions on Computing Practices (KTCP). 2024. (in press)
 * Jihyeon Song, Soon Sun Kim, Ji Eun Han, Hyo Jung Cho, Jae Youn Cheong, Charmgil Hong. Improving Prediction of Chronic Hepatitis B TreatmentResponse Using Molecular Embedding. Journal of KIISE. 2024.
 * Geonyeong Choi, Hyunwoo Yook, Jeong-Woo Han, Charmgil Hong. Prediction of Dehydrogenation Enthalpy Using Graph Isomorphism Network. Journal of KIISE. 2024.
-* Jihyun Moon, Seong Kyung Kim, Hee Song Kim, Soon Sun Kim, Ji Eun Han, Hyo Jung Cho, Jae Youn Cheong, Charmgil Hong. Prediction of Drug Adverse Reactions in Chronic Hepatitis B Patients Using FT-Transformer. Korea Computer Congress (KCC) 2024.
+* Jihyun Moon, Seong Kyung Kim, Hee Song Kim, Soon Sun Kim, Ji Eun Han, Hyo Jung Cho, Jae Youn Cheong, Charmgil Hong. Prediction of Drug Adverse Reactions in Chronic Hepatitis B Patients Using FT-Transformer. Korea Computer Congress (KCC). 2024.
 <!--* Jae Geun Jang, Ye Jun Kim, Soon Sun Kim, Hyo Jung Cho, Ji Eun Han, Jae Youn Cheong, Charmgil Hong. Analysis of 5-Year Hepatocellular Carcinoma Prediction Models for Chronic Hepatitis B Patients. Korea Software Congress (KSC) 2023.-->
-* Jae Geun Jang, Ye Jun Kim, Soon Sun Kim, Hyo Jung Cho, Ji Eun Han, Jae Youn Cheong, Charmgil Hong. Analysis of 5-Year Hepatocellular Carcinoma Prediction Models for Chronic Hepatitis B Patients. Korea Software Congress (KSC) 2023. <span style="color:blue"><sup>*Best Paper Award*</sup></span>
-* Chanju Lee, Hyungyu Choi, Charmgil Hong. Generation of Parallel Corpus for South and North Korean Languages and Its Application to Neural Machine Translation. Korea Software Congress (KSC) 2023.
-* Hanyoung Jeong, Seokjun Kim, Yeongseo Go, Hyemin Shin, Taewoo Kim, Kyujin Cho, Charmgil Hong. Real-World BMS Signal-Based Driving Range Prediction for Electric Vehicles. Korea Software Congress (KSC) 2023. <span style="color:blue"><sup>*Best Paper Award*</sup></span>
-* Minchae Kim, Seohwee Park, Hyunmuk Kang, Youngkwang Ko, Youngmin Kim, Soeun Shin, Chang Ha Lee, Charmgil Hong. A Benchmark Test of 3-Dimensional Convolutional Neural Networks on Video Action Recognition. Korea Software Congress (KSC) 2023.
-* Harim Kim, Yeseul Kim, Yohan Sohn, Hyo Jung Cho, Soon Sun Kim, Ji Eun Han, Jae Youn Cheong, Charmgil Hong. Prediction of Drug-Induced Liver Injuries Using Transformer. Korea Software Congress (KSC) 2023. <span style="color:blue"><sup>*Best Presentation Award*</sup></span>
+* Jae Geun Jang, Ye Jun Kim, Soon Sun Kim, Hyo Jung Cho, Ji Eun Han, Jae Youn Cheong, Charmgil Hong. Analysis of 5-Year Hepatocellular Carcinoma Prediction Models for Chronic Hepatitis B Patients. Korea Software Congress (KSC). 2023. <span style="color:blue"><sup>*Best Student Paper Award*</sup></span>
+* Chanju Lee, Hyungyu Choi, Charmgil Hong. Generation of Parallel Corpus for South and North Korean Languages and Its Application to Neural Machine Translation. Korea Software Congress (KSC). 2023.
+* Hanyoung Jeong, Seokjun Kim, Yeongseo Go, Hyemin Shin, Taewoo Kim, Kyujin Cho, Charmgil Hong. Real-World BMS Signal-Based Driving Range Prediction for Electric Vehicles. Korea Software Congress (KSC). 2023. <span style="color:blue"><sup>*Best Student Paper Award*</sup></span>
+* Minchae Kim, Seohwee Park, Hyunmuk Kang, Youngkwang Ko, Youngmin Kim, Soeun Shin, Chang Ha Lee, Charmgil Hong. A Benchmark Test of 3-Dimensional Convolutional Neural Networks on Video Action Recognition. Korea Software Congress (KSC). 2023.
+* Harim Kim, Yeseul Kim, Yohan Sohn, Hyo Jung Cho, Soon Sun Kim, Ji Eun Han, Jae Youn Cheong, Charmgil Hong. Prediction of Drug-Induced Liver Injuries Using Transformer. Korea Software Congress (KSC). 2023. <span style="color:blue"><sup>*Best Presentation Award*</sup></span>
+* Jihyeon Song, Soon Sun Kim, Hyo Jung Cho, Jae Youn Cheong, Charmgil Hong. An Improved Prediction of Antiviral Treatment Response in Chronic Hepatitis B Using Molecular Graph Embeddings. Korea Computer Congress (KCC). 2023. <span style="color:blue"><sup>*Best Paper Award*</sup></span>
+* Seokjun Kim, Hanyoung Jeong, Doohee Chung, Charmgil Hong. Demand Forecasting Using SHAP Analysis and Cluster-Based Transfer Learning. Korea Computer Congress (KCC). 2023. <span style="color:blue"><sup>*Best Student Paper Award*</sup></span>
+* Dulguun Dorjlkham, Juwon Baek, Hyo Jung Cho, Soon Sun Kim, Ji Eun Han, Jae Youn Cheong, Min Seo Shim, Kyoung Jin Lee, Tae Hyun Kim, Chi Yong Ban, Charmgil Hong. Predicting In-Hospital Drug-Induced Liver Injuries Using Long-Short Term Memory. Korea Software Congress (KSC). 2022.
+* Geonyeong Choi, Charmgil Hong. Ensemble of Graph Neural Networks for Predicting Drug Induced Liver Injuries. Korea Computer Congress (KCC). 2022.
+* Harim Kim, Charmgil Hong. Outlier Detection-Based Crime Scene Detection in Surveillance Videos Using Variational AutoEncoder. Korea Computer Congress (KCC). 2022.
+* Jihyeon Song, Charmgil Hong. Treatment Response Prediction for Hepatitis B Infection Using GRU-D. Korea Computer Congress (KCC). 2022.
+* Jihyoung Jang, Charmgil Hong. Automated Topic Classification of the News Articles on North Korea and Korean Unification. Korea Computer Congress (KCC). 2022. <span style="color:blue"><sup>*Best Student Paper Award*</sup></span>
+* Hangyel Sun, Myeonghee Lee, Charmgil Hong, Injung Kim. Vehicle Image Data Augmentation by GAN-based Viewpoint Transformation. Journal of KIISE. 2022.
+* Hyoyoung Seok, Wanseo Jo, Charmgil Hong. Pancreatic Cancer Risk Prediction Using Bayesian Networks. Korea Computer Congress (KCC). 2021.
+* Jongmin Lee, Hyoyoung Seok, Charmgil Hong. Pancreatic Cancer Risk Analysis with Non-linear Cox Proportional Hazard Models. Korea Computer Congress (KCC). 2021.
+* Junhyung Kim, Byungyoon Park, Charmgil Hong. Multi-Label Classification with Auxiliary Features from 1D-CNN. Korea Computer Congress (KCC). 2021.
+* Joowon Park, Pyeonggang Kim, Jaewon Kim, Charmgil Hong. Methodology for Automatic Firearm Detection Model Generation Using YOLOv4. Korea Software Congress (KSC). 2021.
+* Seong Min Lee, Chan Kyung Kim, Gi Cheol Kim, Charmgil Hong. Faint Detection in Surveillance Videos Using an Outlier Detection Approach. Korea Software Congress (KSC). 2021.
+* Hyeyoung Kim, Miso Kim, Eunji Won, Charmgil Hong. A Case of Study on the Design and Implementation of a Big Data Search Engine for North Korea and Unification Literature. Korea Computer Congress (KCC). 2020.
+* Jun Hyung Kim, Charmgil Hong. An Application of a Deep Hazard Model on Cancer Risk Prediction. Korea Computer Congress (KCC). 2020.
+* Byungyoon Park, Joonyoung Choi, Charmgil Hong. A Functional Extension of an Open-Source Software for Structured Multi-Label Classification. Korea Computer Congress (KCC). 2020. <span style="color:blue"><sup>*Best Student Paper Award*</sup></span>
+* Inhee Kwak, Jihee (Eunsol) Park, Charmgil Hong. Analysis of the Relation Between Solar Wind and the Disturbance of the Geomagnetic Field. Korea Computer Congress (KCC). 2020.
+* Byung-Un Jeong, Ji-Won Kim, Charmgil Hong. Design of Machine Learning and Augmented Reality-Based Personal Color Diagnostic System. Spring Conference of Korea Entertainment Industry Association. 2020. <span style="color:blue"><sup>*Best Paper Award*</sup></span>
+
+
 
 
 ## Presentations
@@ -62,7 +82,7 @@ I am interested in developing and applying machine learning/data mining techniqu
 * Harim Kim, Minchae Kim, Taewoo Kim, Kyujin Cho, Charmgil Hong. Red-Light Violation Detection Using Attention Mechanism in Dashcam Footage. Korea Multimedia Society. Spring, 2024.
 * Hyesun Chun, Haeun Yoon, Ahhyun Kum, Chanju Lee, Hyungyu Choi, Charmgil Hong. Development of a Korean Parallel Corpus and a Machine Translation Model for South and North Korean. Korea Multimedia Society. Spring, 2024. <span style="color:blue"><sup>*Best Presentation Award*</sup></span>
 * Chaewon Kim, Seeun Park, Harim Kim, Taewoo Kim, Kyujin Cho, Charmgil Hong. A Method for Lane Recognition and Departure Detection Using Dashcam Videos. Korea Multimedia Society. Spring, 2024. <span style="color:blue"><sup>*Best Presentation Award*</sup></span>
-* Hasung Cho*, Hyeyoon Jung, Soon Sun Kim, Hyo Jung Cho, Ji Eun Han, Jae Youn Cheong, Charmgil Hong. Improving in Adverse Effects Predictions Induced by Long-Term Antiviral Therapy for Chronic Hepatitis B Patients Using Drug Ontologies. Korean Society of Medical Informatics. Fall, 2023.
+* Hasung Cho, Hyeyoon Jung, Soon Sun Kim, Hyo Jung Cho, Ji Eun Han, Jae Youn Cheong, Charmgil Hong. Improving in Adverse Effects Predictions Induced by Long-Term Antiviral Therapy for Chronic Hepatitis B Patients Using Drug Ontologies. Korean Society of Medical Informatics. Fall, 2023.
 
 
 
