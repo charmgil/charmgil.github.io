@@ -117,6 +117,9 @@ I am interested in developing and applying machine learning/data mining techniqu
 * Charmgil Hong, Chanju Lee, Minjoo Shin, Jeongyeon Yoo. KUBiC: Korean Unification Bigdata Center. The Magazine of the IEIE. 2024. <span class="res">[Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11702932){:target="_blank"}</span>
 
 
+## Dissertation
+* Multivariate Data Modeling and Its Applications to Conditional Outlier Detection. Doctoral Dissertation, University of Pittsburgh. 2017. <span class="res">[Link](https://d-scholarship.pitt.edu/33223/){:target="_blank"}</span>
+
 ## Intellectual Property
 #### Patents
 - R. Ghosh, C. Hong, and S. Srinivasan. “Value Addition Dependent Data Mining Techniques for Assembly Lines.” US Patent Application No. 15/342,677.
