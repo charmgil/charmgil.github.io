@@ -24,8 +24,8 @@ I am an assistant professor in the School of Computer Science and Electrical Eng
 - ECE10002 C Programming
 
 ## Research Interest
-(1) Machine learning with different modalities
-(2) Outlier detection, video anomaly detection
+(1) Machine learning with different modalities;
+(2) Outlier detection, video anomaly detection; and
 (3) Applications of (1) and (2) to the medical and industrial domains
 (4) AI for development
 
