@@ -14,11 +14,19 @@ I am an assistant professor in the School of Computer Science and Electrical Eng
 
 - Research group: [Handong Artificial Intelligence Lab. (HAIL)](https://nth221.github.io/){:target="_blank"}
 
+## Teaching
+- ITP40010 Machine Learning
+- ECE30030/ITP30010 Database System
+- ECE20010/ITP20001 Data Structures
+- ITP20004 Open-source Software Labs
+- ECE10020 Intro to Engineering Design
+- ECE10003 C Programming Labs
+- ECE10002 C Programming
 
-## Research Interest
+<!--## Research Interest
 
 I am interested in developing and applying machine learning/data mining techniques to address large and complex data-driven problems. 
-
+-->
 <!--(1)--> 
 
 ## Refereed Publications
