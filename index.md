@@ -119,6 +119,12 @@ I am an assistant professor in the School of Computer Science and Electrical Eng
 * Geonyeong Choi, Jae Youn Cheong, Hyo Jung Cho, Soon Sun Kim, Hyewon Jo, Charmgil Hong. Learning Molecular Embeddings for the Prediction of Drug Induced Liver Injury Using Graph Neural Networks. Korean Society of Medical Informatics, Spring. 2022. <span class="award">*Best Paper Award*</span>
 * Jihyeon Song, Jae Youn Cheong, Soon Sun Kim, Hyo Jung Cho, Ji Eun Han, Min-Seo Shim, Kyoung Jin Lee, Chi Yong Ban, Charmgil Hong. Prediction of Antiviral Treatment Response in Chronic Hepatitis B Using Machine Learning. Korean Society of Medical Informatics, Spring. 2022.
 * Sueun Park, Hyoyoung Seok, Jae Youn Cheong, Soon Sun Kim, Hyo Jung Cho, Ji Eun Han, Min-Seo Shim, Kyoung Jin Lee, Chi Yong Ban, Charmgil Hong. Prediction of Adverse Effects Induced by Long-Term Antiviral Therapy for Chronic Hepatitis B. Korean Society of Medical Informatics, Spring. 2022.
+* Harim Kim, Charmgil Hong. Trespass Detection in Surveillance Videos Using VAE-SVDD with 3D-CNN. Korea Multimedia Society, Spring. 2022. <span class="award">*Best Paper Award*</span>
+* Da Hee Han, Ju Young Kwon, Charmgil Hong. Identifying Strange Behaviors in Surveillance Videos Using 3D CNN and Statistical Outlier Detection. Korea Multimedia Society, Spring. 2022.
+* Dokyeong Lee, Charmgil Hong. Abnormal Behavior Detection and Visualization on Surveillance Videos. Korea Multimedia Society, Spring. 2022.
+* Hyunmuk Kang, Youngkwang Ko, Youngmin Kim, Seohwee Park, Soeun Shin, Charmgil Hong. Literature Survey on 3D CNN Models for Video Action Recognition. Korea Multimedia Society, Spring. 2022.
+* Hoyoon Choi, Charmgil Hong. Neural Machine Translation Using South Korean-North Korean Parallel Corpus. Korea Multimedia Society, Spring. 2022.
+* Seong Min Lee, Chan Kyung Kim, Gi Cheol Kim, Charmgil Hong. Automatic Detection Software Design for Anomalous Behavior in Surveillance Videos Using 3-Dimensional Convolutional Network. Korea Multimedia Society, Summer. 2020.
 
 <!--older-->
 * Charmgil Hong, Siqi Liu, Milos Hauskrecht. Detection of Unusual Input-Output Associations. SIAM Workshop on Dimension Reduction. 2017. 
