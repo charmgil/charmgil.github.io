@@ -163,7 +163,6 @@ I am also interested in: (4) AI/ICT for North Korea, Korean unification, and the
 - M. Hauskrecht, G. Clermont, G. F. Cooper, S. Malakouti, C. Hong, Z. Luo, M. P. Barren, and S. Liu. “Real-time Clinical Monitoring and Alerting System.” Invention disclosure No. 04995, University of Pittsburgh. 
 
 
-## Awards
 
 
 ## Contact
