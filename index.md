@@ -8,7 +8,7 @@ layout: default
 
 **Hello. I'm Charmgil Hong.**
 
-I am an assistant professor in the School of Computer Science and Electrical Engineering at [Handong Global University](https://handong.edu/){:target="_blank"}, Korea. I am interested in developing and applying machine learning and data mining techniques to address large and complex data-driven problems. Before joining Handong, I had the privilege of studying and earning my PhD under the guidance of [Dr. Milos Hauskrecht](https://cs.pitt.edu/~milos){:target="_blank"}.
+I am an assistant professor in the School of Computer Science and Electrical Engineering at [Handong Global University](https://handong.edu/){:target="_blank"}, Korea. I am interested in developing and applying machine learning and data mining techniques to address large and complex data-driven problems. Before joining Handong, I had the privilege of studying and earning my PhD under the guidance of [Dr. Milos Hauskrecht](https://cs.pitt.edu/~milos){:target="_blank"} at the [University of Pittsburgh](https://www.cs.pitt.edu/){:target="_blank"}.
 
 [<img class="logo-image" src="img/hail-logo-ft.png">](https://nth221.github.io/){:target="_blank"}
 
@@ -161,6 +161,10 @@ I am also interested in: (4) AI/ICT for North Korea, Korean unification, and the
 - C. Hong, D. Fradkin, and A. Chakraborty. “Multi-Target Regression Using Canonical Correlation Analysis.” Invention disclosure No. 2015E16593US, Siemens.
 - H. Hochheiser, S. Visweswaran, G. Trivedi, C. Hong, R. Handzel, and E. Dadashzadeh. “Automation of Useful Secondary Findings From Radiology and Pathology Reports.” Invention disclosure No. 04737, University of Pittsburgh.
 - M. Hauskrecht, G. Clermont, G. F. Cooper, S. Malakouti, C. Hong, Z. Luo, M. P. Barren, and S. Liu. “Real-time Clinical Monitoring and Alerting System.” Invention disclosure No. 04995, University of Pittsburgh. 
+
+
+## Awards
+
 
 ## Contact
 - (first_name)@handong.edu
