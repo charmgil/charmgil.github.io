@@ -27,7 +27,7 @@ I am an assistant professor in the School of Computer Science and Electrical Eng
 (1) Machine learning with different modalities
 (2) Outlier detection, video anomaly detection
 (3) Applications of (1) and (2) to the medical and industrial domains
-(4) AI for social good
+(4) AI for development
 
 <!--I am interested in developing and applying machine learning/data mining techniques to address large and complex data-driven problems. 
 -->
