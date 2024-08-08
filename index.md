@@ -29,7 +29,7 @@ Recent years, I have been primarily working on:
 (2) Outlier detection and video anomaly detection; and
 (3) Applications of (1) and (2) to the medical and industrial domains.
 
-I am also interested in: (4) AI/ICT for North Korea, Korean unification, and the development of third world countries.
+I am also interested in: (4) AI/ICT for Korean unification and the development of third world countries.
 
 <!--I am interested in developing and applying machine learning/data mining techniques to address large and complex data-driven problems. 
 -->
