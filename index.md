@@ -39,7 +39,7 @@ I am also interested in: (4) AI/ICT for Korean unification and the development o
 #### International venues
 
 * Harim Kim, Chang Ha Lee, Charmgil Hong. Transformer for Point Anomaly Detection. ACM International Conference on Information and Knowledge Management (CIKM). 2024. *(to appear)*
-* Jaemin Jung, Soonyong Park, Harim Kim, Chang Ha Lee, Charmgil Hong. Artificial Intelligence-Driven Video Indexing for Rapid Surveillance Footage Summarization and Review. International Joint Conference on Artificial Intelligence (IJCAI) Demo Track. 2024. *(to appear)* <span class="res">[Code](https://github.com/nth221/videx){:target="_blank"}</span>
+* Jaemin Jung, Soonyong Park, Harim Kim, Chang Ha Lee, Charmgil Hong. Artificial Intelligence-Driven Video Indexing for Rapid Surveillance Footage Summarization and Review. International Joint Conference on Artificial Intelligence (IJCAI) Demo Track. 2024. <span class="res">[Paper](https://www.ijcai.org/proceedings/2024/1009){:target="_blank"}</span> <span class="res">[Code](https://github.com/nth221/videx){:target="_blank"}</span>
 * Harim Kim, Minchae Kim, Taewoo Kim, Kyujin Cho, Charmgil Hong. AREST: Attention-Based Red-Light Violation Detection for Safety Technology. IEEE International Conference on Advanced Video and Signal-Based Surveillance (AVSS). 2024. <span class="award">*Best Paper Award*</span>
 * Harim Kim, Chang Ha Lee, Charmgil Hong. VATMAN: Video Anomaly Transformer for Monitoring Accidents and Nefariousness. IEEE International Conference on Advanced Video and Signal-Based Surveillance (AVSS). 2024.
 * Geonyeong Choi, Hyo Jung Cho, Soon Sun Kim, Ji Eun Han, Jae Youn Cheong, Charmgil Hong. Drug Induced Liver Injury Prediction with Injective Molecular Transformer. IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI). 2023. <span class="res">[Paper](https://bhiconference.github.io/BHI2023/2023/pdfs/1570919252.pdf){:target="_blank"}</span>
@@ -149,12 +149,12 @@ I am also interested in: (4) AI/ICT for Korean unification and the development o
 ## Intellectual Property
 #### Patents
 - R. Ghosh, C. Hong, and S. Srinivasan. “Value Addition Dependent Data Mining Techniques for Assembly Lines.” US Patent Application No. 15/342,677.
-- Personal Color Diagnosis Method and System Based on Machine Learning and Augmented Reality (머신러닝 및 증강현실 기반의 퍼스널 컬러 진단 방법 및 시스템). Korean Patent No. 10-2425873
-- Demand Forecasting Method Using Optimization Techniques (최적화 기법을 이용한 수요 예측 방법) No. 10-2023-0109200 (pending)
-- Real-Data-Based Method for Predicting Electric Vehicle Driving Range Using Telematics and BMS Data (전기자동차의 텔레매틱스 데이터 및 BMS 데이터를 활용한 실데이터 기반 전기자동차 주행 가능거리 예측 방법) No. 10-2023-0125081 (pending)
-- Target Prediction Method Using Pre-Training and Transfer Learning and Target Prediction Framework for Performing the Same (사전학습 및 전이학습을 이용한 타겟 예측 방법 및 이를 수행하는 타겟 예측 프레임워크) No. 10-2023-0172099 (pending) 
-- Dashcam Video Analysis Network for Enhanced Safe Driving (안전운전 강화를 위한 블랙박스 영상 분석 네트워크) No. 10-2023-0185288 (pending)
-- Device and Method for Predicting Side Effects of Hepatitis B Antiviral Drugs (B형 간염 항바이러스제 부작용 예측 장치 및 그 방법) No. 10-2024-0020843 (pending) 
+- "Personal Color Diagnosis Method and System Based on Machine Learning and Augmented Reality (머신러닝 및 증강현실 기반의 퍼스널 컬러 진단 방법 및 시스템)." Korean Patent No. 10-2425873
+- "Demand Forecasting Method Using Optimization Techniques (최적화 기법을 이용한 수요 예측 방법)." No. 10-2023-0109200 (pending)
+- "Real-Data-Based Method for Predicting Electric Vehicle Driving Range Using Telematics and BMS Data (전기자동차의 텔레매틱스 데이터 및 BMS 데이터를 활용한 실데이터 기반 전기자동차 주행 가능거리 예측 방법)." No. 10-2023-0125081 (pending)
+- "Prediction Method Using Pre-Training and Transfer Learning and a Target Prediction Framework for Performing the Method (사전학습 및 전이학습을 이용한 타겟 예측 방법 및 이를 수행하는 타겟 예측 프레임워크)." No. 10-2023-0172099 (pending) 
+- "Dashcam Video Analysis Network for Enhanced Safe Driving (안전운전 강화를 위한 블랙박스 영상 분석 네트워크)." No. 10-2023-0185288 (pending)
+- "Device and Method for Predicting Side Effects of Hepatitis B Antiviral Drugs (B형 간염 항바이러스제 부작용 예측 장치 및 그 방법)." No. 10-2024-0020843 (pending) 
 
 
 #### Invention disclosures
