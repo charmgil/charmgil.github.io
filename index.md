@@ -1,8 +1,9 @@
 ---
+title: Charmgil Hong
 layout: default
 ---
 
-## About Me_
+## About Me
 
 <img class="profile-picture" src="img/11378322.jpg">
 
