@@ -59,6 +59,7 @@ I am also interested in: (4) AI/ICT for Korean unification and the development o
 
 
 #### Domestic venues
+* Hannah Hyesun Chun, Chanju Lee, Hyungyu Choi, Charmgil Hong. Machine Translation and Analysis of South and North Korean Using a Parallel Corpus. Joint Conference on Human and Cognitive Language Technology, Korean Association for Corpus Linguistics (HCLT-KACL). 2024. *(to appear)*
 * Harim Kim, Yeseul Kim, Yohan Sohn, Hyo Jung Cho, Soon Sun Kim, Ji Eun Han, Jae Youn Cheong, Charmgil Hong. Prediction of Drug-Induced Liver Injuries Using Transformer. KIISE Transactions on Computing Practices (KTCP). 2024. *(in press)*
 * Jihyeon Song, Soon Sun Kim, Ji Eun Han, Hyo Jung Cho, Jae Youn Cheong, Charmgil Hong. Improving Prediction of Chronic Hepatitis B TreatmentResponse Using Molecular Embedding. Journal of KIISE. 2024. <span class="res">[Paper](https://www.kiise.or.kr/e_journal/2024/7/JOK/06.pdf){:target="_blank"}</span>
 * Geonyeong Choi, Hyunwoo Yook, Jeong-Woo Han, Charmgil Hong. Prediction of Dehydrogenation Enthalpy Using Graph Isomorphism Network. Journal of KIISE. 2024. <span class="res">[Paper](https://www.kiise.or.kr/e_journal/2024/5/JOK/03.pdf){:target="_blank"}</span>
@@ -76,6 +77,7 @@ I am also interested in: (4) AI/ICT for Korean unification and the development o
 
 <!--2022-->
 * Dulguun Dorjlkham, Juwon Baek, Hyo Jung Cho, Soon Sun Kim, Ji Eun Han, Jae Youn Cheong, Min Seo Shim, Kyoung Jin Lee, Tae Hyun Kim, Chi Yong Ban, Charmgil Hong. Predicting In-Hospital Drug-Induced Liver Injuries Using Long-Short Term Memory. Korea Software Congress (KSC). 2022. <span class="res">[Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224560){:target="_blank"}</span>
+* Jihyoung Jang, Hoyoon Choi, Gun-woo Lee, Myung-seok Choi, Charmgil Hong. An Automated Production System Design for Natural Language Processing Models Using Korean Pre-trained Model. Annual Conference on Human and Cognitive Language Technology (HCLT). 2022. <span class="res">[Paper](https://ocean.kisti.re.kr/IS_mvpopo213L.do?ResultTotalCNT=115&pageNo=11&pageSize=10&method=view&acnCn1=&poid=sighlt&kojic=OOGHAK&sVnc=y2022m10a&id=8&setId=&iTableId=&iDocId=&sFree=&pQuery=%28kojic%3AOOGHAK%29+AND+%28voliss_ctrl_no%3Ay2022m10a%29){:target="_blank"}</span>
 * Geonyeong Choi, Charmgil Hong. Ensemble of Graph Neural Networks for Predicting Drug Induced Liver Injuries. Korea Computer Congress (KCC). 2022. <span class="res">[Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113625){:target="_blank"}</span>
 * Harim Kim, Charmgil Hong. Outlier Detection-Based Crime Scene Detection in Surveillance Videos Using Variational AutoEncoder. Korea Computer Congress (KCC). 2022.
 * Jihyeon Song, Charmgil Hong. Treatment Response Prediction for Hepatitis B Infection Using GRU-D. Korea Computer Congress (KCC). 2022. <span class="res">[Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113892){:target="_blank"}</span>
@@ -106,7 +108,7 @@ I am also interested in: (4) AI/ICT for Korean unification and the development o
 * Geonyeong Choi, Charmgil Hong. Analysis of Drug Inducing Liver Injury: A Graph-Based Machine Learning Approach. The Liver Week (TLW) 2024.
 * Ye Jun Kim, Jae Geun Jang, Soon Sun Kim, Jae Youn Cheong, Charmgil Hong. Analysis of a Machine Learning-Based Predictive Model for Hepatocellular Carcinoma in Chronic Hepatitis B Patients. Korean Society of Medical Informatics, Spring. 2024.
 * Harim Kim, Minchae Kim, Taewoo Kim, Kyujin Cho, Charmgil Hong. Red-Light Violation Detection Using Attention Mechanism in Dashcam Footage. Korea Multimedia Society, Spring. 2024.
-* Hyesun Chun, Haeun Yoon, Ahhyun Kum, Chanju Lee, Hyungyu Choi, Charmgil Hong. Development of a Korean Parallel Corpus and a Machine Translation Model for South and North Korean. Korea Multimedia Society, Spring. 2024. <span class="award">*Best Paper Award*</span>
+* Hannah Hyesun Chun, Haeun Yoon, Ahhyun Kum, Chanju Lee, Hyungyu Choi, Charmgil Hong. Development of a Korean Parallel Corpus and a Machine Translation Model for South and North Korean. Korea Multimedia Society, Spring. 2024. <span class="award">*Best Paper Award*</span>
 * Chaewon Kim, Seeun Park, Harim Kim, Taewoo Kim, Kyujin Cho, Charmgil Hong. A Method for Lane Recognition and Departure Detection Using Dashcam Videos. Korea Multimedia Society, Spring. 2024. <span class="award">*Best Paper Award*</span>
 
 <!--2023-->
