@@ -27,7 +27,7 @@ I am an assistant professor in the School of Computer Science and Electrical Eng
 ## Research Interest
 Recent years, I have been primarily working on:
 (1) Machine learning with different modalities;
-(2) Outlier detection and video anomaly detection; and
+(2) Outlier detection with a focus on video anomaly detection; and
 (3) Applications of (1) and (2) to the medical and industrial domains.
 
 I am also interested in: (4) AI/ICT for Korean unification and the development of third world countries.
