@@ -103,7 +103,8 @@ I am also interested in: (4) AI/ICT for Korean unification and the development o
 
 
 ## Workshops/Symposiums
-
+* Jihyun Moon, Soon Sun Kim, Ji Eun Han, Hyo Jung Cho, Jae Youn Cheong, Charmgil Hong. A Study on Prompts for LLM-based Drug Side Effect Prediction in Chronic Hepatitis B Patients. Korean Society of Medical and Biological Engineering. Fall, 2024. <span class="award">*Best Paper Award*</span>
+* Soyeon Park, Charmgil Hong. A Study on Pneumonia Diagnosis Model Using X-Ray Images on EfficientNet. Korean Society of Medical and Biological Engineering. Fall, 2024.
 * Harim Kim, Hyo Jung Cho, Soon Sun Kim, Ji Eun Han, Jae Youn Cheong, Charmgil Hong. Personalized Prediction of Drug-Induced Liver Injury Using the Transformer Architecture. The Liver Week (TLW) 2024. <span class="award">*Best Presentation Award*</span>
 * Ye Jun Kim, Jae Geun Jang, Soon Sun Kim, Hyo Jung Cho, Ji Eun Han, Jae Youn Cheong, Charmgil Hong. Analysis of a Machine Learning-Based Predictive Model for Hepatocellular Carcinoma in Chronic Hepatitis B Patients. The Liver Week (TLW) 2024.
 * Geonyeong Choi, Charmgil Hong. Analysis of Drug Inducing Liver Injury: A Graph-Based Machine Learning Approach. The Liver Week (TLW) 2024.
