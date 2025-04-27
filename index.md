@@ -61,6 +61,7 @@ I am also interested in: (4) AI/ICT for Korean unification and the development o
 
 
 #### Domestic venues
+* Gwangjin Jeong, Yunseong Choe, Seyeong Ha, Seonghyun Lee, Sang Ho Lee, Charmgil Hong. A Study on RAG-based Automated Claims Amendment Framework for Patent Application Process Support. Korean Institute of Intelligent Systems (KIIS) Spring Conference 2025.
 * Heeseo Jeong, Hakyoung An, Hyewon Jeon, Dajeong Lee, Charmgil Hong. Prediction and Analysis of Geomagnetic Disturbances Using LSTM and Attention Mechanisms. Korea Software Congress (KSC) 2024. <span class="res">[Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12042262){:target="_blank"}</span>
 * HyeEun Yeon, Charmgil Hong. Development of a Domain-Specialized Large Language Model for North Korea and Unification: Building a Generative AI Chatbot Using PEFT and RAG Techniques. Korea Software Congress (KSC) 2024. <span class="res">[Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12042265){:target="_blank"}</span>
 * Yeongseo Go, Hyemin Shin, Hanyoung Jeong, Taewoo Kim, Kyujin Cho, Charmgil Hong. Predictive Analysis of Electric Vehicle Range Using Real-Driving Data Considering Regenerative Braking. Annual Autumn Conference & Exhibition. Korean Society of Automotive Engineers. 2024. <span class="res">[Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12047700){:target="_blank"}</span>
