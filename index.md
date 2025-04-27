@@ -9,7 +9,7 @@ layout: default
 
 **Hello. I'm Charmgil Hong.**
 
-I am an assistant professor in the School of Computer Science and Electrical Engineering and the School of Applied Artificial Intelligence at [Handong Global University](https://handong.edu/){:target="_blank"}, Korea. My research interests focus on developing and applying machine learning and data mining techniques to solve large and complex data-driven problems. Before joining Handong, I had the privilege of studying under the guidance of [Dr. Milos Hauskrecht](https://cs.pitt.edu/~milos){:target="_blank"} and earning my PhD from the [University of Pittsburgh](https://www.cs.pitt.edu/){:target="_blank"}.
+I am an associate professor in the School of Computer Science and Electrical Engineering and the School of Applied Artificial Intelligence at [Handong Global University](https://handong.edu/){:target="_blank"}, Korea. My research interests focus on developing and applying machine learning and data mining techniques to solve large and complex data-driven problems. Before joining Handong, I had the privilege of studying under the guidance of [Dr. Milos Hauskrecht](https://cs.pitt.edu/~milos){:target="_blank"} and earning my PhD from the [University of Pittsburgh](https://www.cs.pitt.edu/){:target="_blank"}.
 
 [<img class="logo-image" src="img/hail-logo-ft.png">](https://nth221.github.io/){:target="_blank"}
 
