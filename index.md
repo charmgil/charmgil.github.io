@@ -159,7 +159,7 @@ I am also interested in: (4) AI/ICT for Korean unification and the development o
 
 ## Articles
 * Charmgil Hong, Chanju Lee, Minjoo Shin, Jeongyeon Yoo. KUBiC: Korean Unification Bigdata Center. The Magazine of the IEIE. 2024. <span class="res">[Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11702932){:target="_blank"}</span>
-* In Ho Song, Jaechun Won, Semee Kim, Yong Joon Choi, Myung Hee Jun, Monica Jeong, Jieun Jung, Ducksu Seo, Jihyoun Park, Charmgil Hong. Why Not a Unified Korea? Knowledge Community. 2025. <span class="res">[Metainfo](https://dl.nanet.go.kr/search/searchInnerDetail.do?controlNo=MONO12025000015075){:target="_blank"}</span>
+* In Ho Song, Jaechun Won, Semee Kim, Yong Joon Choi, Myung Hee Jun, Monica Jeong, Jieun Jung, Ducksu Seo, Jihyoun Park, Charmgil Hong. Why Not a Unified Korea? ISBN: 9791167258663. Knowledge Community. 2025. <span class="res">[Metainfo](https://dl.nanet.go.kr/search/searchInnerDetail.do?controlNo=MONO12025000015075){:target="_blank"}</span>
 
 
 ## Dissertation
@@ -172,8 +172,8 @@ I am also interested in: (4) AI/ICT for Korean unification and the development o
 #### Patents
 - R. Ghosh, C. Hong, and S. Srinivasan. “Value Addition Dependent Data Mining Techniques for Assembly Lines.” US Patent Application No. 15/342,677.
 - "Personal Color Diagnosis Method and System Based on Machine Learning and Augmented Reality (머신러닝 및 증강현실 기반의 퍼스널 컬러 진단 방법 및 시스템)." Korean Patent No. 10-2425873
+- "Real Time Data-Based Electric Vehicle Driving Range Prediction Method Using Electric Vehicle Telematics Data and BMS Data (전기자동차의 텔레매틱스 데이터 및 BMS 데이터를 활용한 실데이터 기반 전기자동차 주행 가능거리 예측 방법)." Korean Patent No. 10-2789791
 - "Demand Forecasting Method Using Optimization Techniques (최적화 기법을 이용한 수요 예측 방법)." No. 10-2023-0109200 (pending)
-- "Real-Data-Based Method for Predicting Electric Vehicle Driving Range Using Telematics and BMS Data (전기자동차의 텔레매틱스 데이터 및 BMS 데이터를 활용한 실데이터 기반 전기자동차 주행 가능거리 예측 방법)." No. 10-2023-0125081 (pending)
 - "Prediction Method Using Pre-Training and Transfer Learning and a Target Prediction Framework for Performing the Method (사전학습 및 전이학습을 이용한 타겟 예측 방법 및 이를 수행하는 타겟 예측 프레임워크)." No. 10-2023-0172099 (pending) 
 - "Dashcam Video Analysis Network for Enhanced Safe Driving (안전운전 강화를 위한 블랙박스 영상 분석 네트워크)." No. 10-2023-0185288 (pending)
 - "Device and Method for Predicting Side Effects of Hepatitis B Antiviral Drugs (B형 간염 항바이러스제 부작용 예측 장치 및 그 방법)." No. 10-2024-0020843 (pending) 
