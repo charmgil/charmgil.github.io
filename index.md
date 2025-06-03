@@ -157,10 +157,9 @@ I am also interested in: (4) AI/ICT for Korean unification and the development o
 * Charmgil Hong, Milos Hauskrecht. Analysis of Temporal Clinical Patterns using Hidden Markov Models. ICML 2012 Workshop on Clinical Data Analysis. 2012. <span class="res">[Paper](https://people.cs.pitt.edu/~charmgil/sharepoint/papers/Poster_Hong_ICML_Clinical_2012.pdf){:target="_blank"}</span> <span class="res">[Poster](files/arx/poster_20120626_ICML2012.pdf){:target="_blank"}</span>
 
 
-
-
 ## Articles
 * Charmgil Hong, Chanju Lee, Minjoo Shin, Jeongyeon Yoo. KUBiC: Korean Unification Bigdata Center. The Magazine of the IEIE. 2024. <span class="res">[Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11702932){:target="_blank"}</span>
+* In Ho Song, Jaechun Won, Semee Kim, Yong Joon Choi, Myung Hee Jun, Monica Jeong, Jieun Jung, Ducksu Seo, Jihyoun Park, Charmgil Hong. Why Not a Unified Korea? Knowledge Community. 2025. <span class="res">[Metainfo](https://dl.nanet.go.kr/search/searchInnerDetail.do?controlNo=MONO12025000015075){:target="_blank"}</span>
 
 
 ## Dissertation
