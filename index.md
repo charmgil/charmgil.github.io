@@ -40,6 +40,7 @@ I am also interested in: (4) AI/ICT for Korean unification and the development o
 
 #### International venues
 
+* Charmgil Hong, Doohee Chung, Jongyeong Kim, Heewon Jung. Quantum Deepflow: A Quantum-Integrated Forecasting Platform for Strategic Decisions in Raw Material Procurement. ACM International Conference on Information and Knowledge Management (CIKM). 2025. *(to appear)*
 * Harim Kim, Yuhan Wang, Minkyu Ahn, Heeyoul Choi, Yuyin Zhou, Charmgil Hong. Harnessing EHRs for Diffusion-based Anomaly Detection on Chest X-rays. International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI). 2025. *(to appear)*
 * Jihyun Moon, Charmgil Hong. Retrieval-Augmented VLMs for Multimodal Melanoma Diagnosis. International Skin Imaging Collaboration (ISIC) Skin Image Analysis Workshop at MICCAI. 2025. *(to appear)*
 * Chongmyung Kwon, Yujin Kim, Seoeun Park, Yunji Lee, Charmgil Hong. MMM: Quantum-Chemical Molecular Representation Learning for Combinatorial Drug Recommendation. International Workshop on Predictive Intelligence In Medicine at MICCAI (PRIME-MICCAI). 2025. *(to appear)*
