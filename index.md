@@ -41,6 +41,9 @@ I am also interested in: (4) AI/ICT for Korean unification and the development o
 #### International venues
 
 * Harim Kim, Yuhan Wang, Minkyu Ahn, Heeyoul Choi, Yuyin Zhou, Charmgil Hong. Harnessing EHRs for Diffusion-based Anomaly Detection on Chest X-rays. International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI). 2025. *(to appear)*
+* Jihyun Moon, Charmgil Hong. Retrieval-Augmented VLMs for Multimodal Melanoma Diagnosis. International Skin Imaging Collaboration (ISIC) Skin Image Analysis Workshop at MICCAI. 2025. *(to appear)*
+* Chongmyung Kwon, Yujin Kim, Seoeun Park, Yunji Lee, Charmgil Hong. MMM: Quantum-Chemical Molecular Representation Learning for Combinatorial Drug Recommendation. International Workshop on Predictive Intelligence In Medicine at MICCAI (PRIME-MICCAI). 2025. *(to appear)*
+* Soyeon Park, Heeseo Jeong, Soon Sun Kim, Jae Youn Cheong, Charmgil Hong. Transformer-Based Risk Estimation of HCC in Patients with Chronic Hepatitis B. International Workshop on Predictive Intelligence In Medicine at MICCAI (PRIME-MICCAI). 2025. *(to appear)*
 * Jihyun Moon, Charmgil Hong. Multimodal Clinical Decision Support for Melanoma Diagnosis Using Retrieval-Augmented Generation and Vision-Language Models. IEEE International Conference on Advanced Visual and Signal-Based Systems (AVSS). 2025.  *(to appear)*
 * Dong Gun Park, Soyeon Park, Chang Ha Lee, Hyunkyoo Choi, Charmgil Hong. VIRAL: Video Indexing and Retrieval Associated to Large-Scale Contents. IEEE International Conference on Advanced Visual and Signal-Based Systems (AVSS). 2025.  *(to appear)*
 * Hannah Hyesun Chun, Chanju Lee, Hyunkyoo Choi, Charmgil Hong. Bridging the Linguistic Divide: Developing a North-South Korean Parallel Corpus for Machine Translation. Pacific Asia Conference on Language, Information, and Computation (PACLIC 38). 2024. <span class="res">[Paper](https://aclanthology.org/2024.paclic-1.77/){:target="_blank"}</span> <span class="res">[Data](https://github.com/HandongSF/KoreanUnificationParallelCorpus){:target="_blank"}</span> 
@@ -116,7 +119,7 @@ I am also interested in: (4) AI/ICT for Korean unification and the development o
 
 
 
-## Workshops/Symposiums
+## Workshops/Symposiums (Non-archival)
 * Jihyun Moon, Soon Sun Kim, Hyo Jung Cho, Jae Youn Cheong, Charmgil Hong. Turning LLMs into Clinical Decision Supporters: Optimizing Prompt Structure for Drug Side Effect Prediction in Chronic Hepatitis B Patients. The Liver Week (TLW) 2025.
 * Seongbin Kim, Seungjun Yu, Gyueun Park, Hyo Jung Cho, Soon Sun Kim, Ji Eun Han, Jae Youn Cheong, Charmgil Hong. Quantum Chemical Features Meet Clinical Data for DILI Prediction: Integrating Electronic Density Distribution of Antibiotics with Patient EMR Data. The Liver Week (TLW) 2025.
 
