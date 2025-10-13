@@ -68,7 +68,7 @@ I am also interested in: (4) AI/ICT for Korean unification and the development o
 
 
 #### Domestic venues
-* Seonghyun Lee, Yunseong Choe, Jaehoon Ryu, Youngsool Moon, Charmgil Hong. A Framework for Automated Patent Claim Amendment in Response to Office Action Rejections Using Retrieval-Augmented Generation. Joint Conference on Human and Cognitive Language Technology, Korean Association for Corpus Linguistics (HCLT-KACL). 2025.
+* Seonghyun Lee, Yunseong Choe, Jaehoon Ryu, Youngsool Moon, Charmgil Hong. A Framework for Automated Patent Claim Amendment in Response to Office Action Rejections Using Retrieval-Augmented Generation. Joint Conference on Human and Cognitive Language Technology, Korean Association for Corpus Linguistics (HCLT-KACL). 2025. <span class="award">*Best Presentation Paper Award*</span>
 * Yunseong Choe, Seonghyun Lee, Sang Ho Lee, Charmgil Hong. Comparative Study of Data Processing Methods for BERT-Based Sentiment Analysis of Corporate News. Joint Conference on Human and Cognitive Language Technology, Korean Association for Corpus Linguistics (HCLT-KACL). 2025.
 * Heeseo Jeong, Dajeong Lee, Kyujin Cho, Charmgil Hong. A Large-scale BMS Data-driven Approach to Future Electric Vehicle Driving Range Prediction. Annual Symposium of KIPS (ASK) 2025. <span class="award">*Best Paper Award*</span> <span class="res">[Paper](https://www.koreascience.kr/article/CFKO202520964804265.page?&lang=en){:target="_blank"}</span>
 * Hyewon Jeon, Charmgil Hong. Bayesian Additive Trees for Electric Vehicle Range Prediction and Performance Evaluation. Annual Symposium of KIPS (ASK) 2025. <span class="res">[Paper](https://www.koreascience.kr/article/CFKO202520961204209.page?&lang=en){:target="_blank"}</span>
