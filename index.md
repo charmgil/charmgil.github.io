@@ -162,7 +162,7 @@ I am also interested in: (4) AI/ICT for Korean unification and the development o
 * Seong Min Lee, Chan Kyung Kim, Gi Cheol Kim, Charmgil Hong. Automatic Detection Software Design for Anomalous Behavior in Surveillance Videos Using 3-Dimensional Convolutional Network. Korea Multimedia Society, Summer. 2020.
 
 <!--older-->
-* Charmgil Hong, Siqi Liu, Milos Hauskrecht. Detection of Unusual Input-Output Associations. SIAM Workshop on Dimension Reduction. 2017. 
+* Charmgil Hong, Siqi Liu, Milos Hauskrecht. Detection of Unusual Input-Output Associations. SIAM Workshop on Dimension Reduction. 2017.
 * Charmgil Hong, Rumi Ghosh, Soundar Srinivasan. Dealing with Class Imbalance Using Thresholding. KDD 2016 Workshop on Outlier Definition, Detection, and Description on Demand. 2016. <span class="res">[Paper](https://arxiv.org/abs/1607.02705){:target="_blank"}</span>
 * Charmgil Hong, Milos Hauskrecht. Analysis of Temporal Clinical Patterns using Hidden Markov Models. ICML 2012 Workshop on Clinical Data Analysis. 2012. <span class="res">[Paper](https://people.cs.pitt.edu/~charmgil/sharepoint/papers/Poster_Hong_ICML_Clinical_2012.pdf){:target="_blank"}</span> <span class="res">[Poster](files/arx/poster_20120626_ICML2012.pdf){:target="_blank"}</span>
 
