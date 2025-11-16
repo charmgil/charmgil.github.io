@@ -70,6 +70,7 @@ I am also interested in: (4) AI/ICT for Korean unification and the development o
 
 #### Domestic venues
 * Heeseo Jeong, Dajeong Lee, Kyujin Cho, Charmgil Hong. Predictive Data Analysis-Based Modeling of Future Electric Vehicle Driving Range. KIPS Transactions on Software and Data Engineering (KTSDE). 2025. *(to appear)*
+* Heeseo Jeong, Kyujin Cho, Charmgil Hong. Electric Vehicle Range Prediction Based on Transformer and BMS Data. Annual Autumn Conference & Exhibition. Korean Society of Automotive Engineers. 2025. *(to appear)*
 * Seonghyun Lee, Yunseong Choe, Jaehoon Ryu, Youngsool Moon, Charmgil Hong. A Framework for Automated Patent Claim Amendment in Response to Office Action Rejections Using Retrieval-Augmented Generation. Joint Conference on Human and Cognitive Language Technology, Korean Association for Corpus Linguistics (HCLT-KACL). 2025. <span class="award">*Best Presentation Paper Award*</span>
 * Yunseong Choe, Seonghyun Lee, Sang Ho Lee, Charmgil Hong. Comparative Study of Data Processing Methods for BERT-Based Sentiment Analysis of Corporate News. Joint Conference on Human and Cognitive Language Technology, Korean Association for Corpus Linguistics (HCLT-KACL). 2025.
 * Heeseo Jeong, Dajeong Lee, Kyujin Cho, Charmgil Hong. A Large-scale BMS Data-driven Approach to Future Electric Vehicle Driving Range Prediction. Annual Symposium of KIPS (ASK) 2025. <span class="award">*Best Paper Award*</span> <span class="res">[Paper](https://www.koreascience.kr/article/CFKO202520964804265.page?&lang=en){:target="_blank"}</span>
