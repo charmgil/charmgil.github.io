@@ -144,6 +144,7 @@ I am also interested in: (4) AI/ICT for Korean unification and the development o
 
 <!--2023-->
 * Hasung Cho, Hyeyoon Jung, Soon Sun Kim, Hyo Jung Cho, Ji Eun Han, Jae Youn Cheong, Charmgil Hong. Improving in Adverse Effects Predictions Induced by Long-Term Antiviral Therapy for Chronic Hepatitis B Patients Using Drug Ontologies. Korean Society of Medical Informatics, Fall. 2023.
+* Jihyeon Song, Soon Sun Kim, Ji Eun Han, Hyo Jung Cho, Jaeyoun Cheong, Charmgil Hong. Enhanced Prediction of Antiviral Treatment Response in Chronic Hepatitis B Utilizing Molecular Graph Embeddings. IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI). 2023.
 * Jihyun Moon, Soon Sun Kim, Hyo Jung Cho, Ji Eun Han, Jae Youn Cheong, Charmgil Hong. Analysis of Variable Importance Using Machine Learning for Predicting Adverse Drug Reactions in Patients with Chronic Hepatitis B. Korean Society of Medical Informatics, Spring. 2023.
 * Myeong Ju Lim, Min Ji Park, Eunsol Park, Jae Youn Cheong, Soon Sun Kim, Hyo Jung Cho, Ji Eun Han, Charmgil Hong. Predicting Abnormal Liver Enzyme Levels in Antiviral Patients Using a Multi-Layer Bidirectional Long Short-Term Memory Architecture. Korean Society of Medical Informatics, Spring. 2023.
 * Jihyeon Song, Soon Sun Kim, Hyo Jung Cho, Ji Eun Han, Jae Youn Cheong, Charmgil Hong. Improving the Predictive Accuracy of Antiviral Response for Chronic Hepatitis B Patients Using Molecular Graph Representation. Korean Society of Medical Informatics, Spring. 2023.
