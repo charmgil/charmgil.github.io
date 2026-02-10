@@ -27,11 +27,11 @@ I am an associate professor in the School of Computer Science and Electrical Eng
 
 ## Research Interest
 Recent years, I have been primarily working on:
-(1) Machine learning with different modalities;
-(2) Outlier detection with a focus on video anomaly detection; and
-(3) Applications of (1) and (2) to the medical and industrial domains.
+(1) Multimodal and multi-source machine learning, including time-series, image, video, and text data;
+(2) Anomaly and outlier detection with a focus on video understanding and large-scale video indexing; and
+(3) Applications of (1) and (2) to the medical and industrial domains, including clinical decision support and electric vehicle battery analytics.
 
-I am also interested in: (4) AI/ICT for Korean unification and the development of third world countries.
+I am also interested in: (4) AI/ICT for Korean unification studies and data-driven capacity building for developing countries.
 
 <!--I am interested in developing and applying machine learning/data mining techniques to address large and complex data-driven problems. 
 -->
