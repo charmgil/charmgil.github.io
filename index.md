@@ -41,6 +41,7 @@ I am also interested in: (4) AI/ICT for Korean unification studies and data-driv
 #### International venues
 
 * Yujin Kim, Chongmyung Kwon, Seoeun Park, Charmgil Hong. Multimodal Drug Recommendation with Quantum Chemical Molecular Representations. International Conference on Database Systems for Advanced Applications (DASFAA). 2026. *(to appear)*
+* Eunchan Jung, Eunseo Jeong, Ulim Lee, Youngjun Shim, Charmgil Hong. Content-Grounded Semantic Identifier Construction for Surveillance Video Indexing. The 12th International Workshop on Big Data Management and Service (BDMS) at DASFAA. 2026. *(to appear)*
 * Charmgil Hong, Doohee Chung, Jongyeong Kim, Heewon Jung. Quantum Deepflow: A Quantum-Integrated Forecasting Platform for Strategic Decisions in Raw Material Procurement. ACM International Conference on Information and Knowledge Management (CIKM). 2025. <span class="res">[Paper](https://dl.acm.org/doi/10.1145/3746252.3761495){:target="_blank"}</span> <span class="res">[Poster](files/arx/poster_20251111_CIKM2025_QDF.pdf){:target="_blank"}</span> <span class="res">[Video 1](https://youtu.be/iSfzQc5nYfY){:target="_blank"}</span> <span class="res">[Video 2](https://youtu.be/FRxanLSjovc){:target="_blank"}</span>
 * Chongmyung Kwon, Yujin Kim, Seoeun Park, Yunji Lee, Charmgil Hong. MMM: Quantum-Chemical Molecular Representation Learning for Combinatorial Drug Recommendation. International Workshop on Predictive Intelligence In Medicine at MICCAI (PRIME-MICCAI). 2025. <span class="res">[Paper](https://link.springer.com/chapter/10.1007/978-3-032-07904-6_21){:target="_blank"}</span> <span class="res">[Slides](files/arx/slides_PRIME2025_MMM.pdf){:target="_blank"}</span> <span class="res">[Code](https://github.com/nth221/MMM){:target="_blank"}</span>
 * Soyeon Park, Heeseo Jeong, Soon Sun Kim, Jae Youn Cheong, Charmgil Hong. Transformer-Based Risk Estimation of HCC in Patients with Chronic Hepatitis B. International Workshop on Predictive Intelligence In Medicine at MICCAI (PRIME-MICCAI). 2025. <span class="res">[Paper](https://link.springer.com/chapter/10.1007/978-3-032-07904-6_20){:target="_blank"}</span>
@@ -127,7 +128,11 @@ I am also interested in: (4) AI/ICT for Korean unification studies and data-driv
 
 
 
-## Workshops/Symposiums (Non-archival)
+## Non-archival Presentations <!--Workshops/Symposiums-->
+* Yunseong Choi, Seulkee Park, Jong-Bok Kim, Charmgil Hong. An Empirical Evaluation of Prompting Strategies for Korean Metaphor Extraction in Restaurant Reviews. The 35th Joint Workshop on Linguistics and Language Processing (JWLLP 35). 2026. *(to appear)*
+* Seonghyun Lee, Jaehoon Ryu, Youngsool Moon, Charmgil Hong. Practical Constraints in Korean News Sentiment Analysis: Context Compression and Grouping Strategies. The 35th Joint Workshop on Linguistics and Language Processing (JWLLP 35). 2026. *(to appear)*
+
+<!--2025-->
 * Charmgil Hong, Jong-Bok Kim, Seulkee Park, Yunseong Choe. Conceptual Metaphors in Food Reviews: LLM-Based Implications for Korean Discourse. Workshop at the 39th Pacific Asia Conference on Language, Information and Computation: The Language of Food in Asia. 2025.
 * Seoeun Park, Yujin Kim, Charmgil Hong. A Study on Drug-Drug Interaction Prediction and Drug Recommendation Using Quantum Chemistry-Based Multimodal Molecular Representations. Korean Society of Medical and Biological Engineering. Fall, 2025. <span class="award">*Best Paper Award*</span>
 * Jihyun Moon, Soon Sun Kim, Hyo Jung Cho, Jae Youn Cheong, Charmgil Hong. Turning LLMs into Clinical Decision Supporters: Optimizing Prompt Structure for Drug Side Effect Prediction in Chronic Hepatitis B Patients. The Liver Week (TLW) 2025.
