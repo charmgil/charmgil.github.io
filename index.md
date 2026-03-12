@@ -40,7 +40,7 @@ I am also interested in: (4) AI/ICT for Korean unification studies and data-driv
 
 #### International venues
 
-* Soyeon Park, Doohee Chung, Charmgil Hong. Multimodal Forecasting for Commodity Prices Using Spectrogram-Based and Time Series Representations. AAAI Summer Symposium. 2026. *(to appear)*
+* Soyeon Park, Doohee Chung, Charmgil Hong. Multimodal Forecasting for Commodity Prices Using Spectrogram-Based and Time Series Representations. Association for the Advancement of Artificial Intelligence (AAAI) 2026 Summer Symposium. 2026. *(to appear)*
 * Yujin Kim, Chongmyung Kwon, Seoeun Park, Charmgil Hong. Multimodal Drug Recommendation with Quantum Chemical Molecular Representations. International Conference on Database Systems for Advanced Applications (DASFAA). 2026. *(to appear)*
 * Eunchan Jung, Eunseo Jeong, Ulim Lee, Youngjun Shim, Charmgil Hong. Content-Grounded Semantic Identifier Construction for Surveillance Video Indexing. The 12th International Workshop on Big Data Management and Service (BDMS) at DASFAA. 2026. *(to appear)*
 * Charmgil Hong, Doohee Chung, Jongyeong Kim, Heewon Jung. Quantum Deepflow: A Quantum-Integrated Forecasting Platform for Strategic Decisions in Raw Material Procurement. ACM International Conference on Information and Knowledge Management (CIKM). 2025. <span class="res">[Paper](https://dl.acm.org/doi/10.1145/3746252.3761495){:target="_blank"}</span> <span class="res">[Poster](files/arx/poster_20251111_CIKM2025_QDF.pdf){:target="_blank"}</span> <span class="res">[Video 1](https://youtu.be/iSfzQc5nYfY){:target="_blank"}</span> <span class="res">[Video 2](https://youtu.be/FRxanLSjovc){:target="_blank"}</span>
