@@ -41,7 +41,7 @@ I am also interested in: (4) AI/ICT for Korean unification studies and data-driv
 #### International venues
 
 * Soyeon Park, Doohee Chung, Charmgil Hong. Multimodal Forecasting for Commodity Prices Using Spectrogram-Based and Time Series Representations. Association for the Advancement of Artificial Intelligence 2026 Summer Symposium (AAAI-SS). 2026. *(to appear)*
-* Yujin Kim, Chongmyung Kwon, Seoeun Park, Charmgil Hong. Multimodal Drug Recommendation with Quantum Chemical Molecular Representations. International Conference on Database Systems for Advanced Applications (DASFAA). 2026. *(to appear)*
+* Yujin Kim, Seoeun Park, Chongmyung Kwon, Charmgil Hong. Multimodal Drug Recommendation with Quantum Chemical Molecular Representations. International Conference on Database Systems for Advanced Applications (DASFAA). 2026. <span class="res">[Paper](https://link.springer.com/chapter/10.1007/978-981-92-0369-7_13){:target="_blank"}</span>
 * Eunchan Jung, Eunseo Jeong, Ulim Lee, Youngjun Shim, Charmgil Hong. Content-Grounded Semantic Identifier Construction for Surveillance Video Indexing. The 12th International Workshop on Big Data Management and Service (BDMS) at DASFAA. 2026. *(to appear)*
 * Charmgil Hong, Doohee Chung, Jongyeong Kim, Heewon Jung. Quantum Deepflow: A Quantum-Integrated Forecasting Platform for Strategic Decisions in Raw Material Procurement. ACM International Conference on Information and Knowledge Management (CIKM) Poster and Demo Session. 2025. <span class="res">[Paper](https://dl.acm.org/doi/10.1145/3746252.3761495){:target="_blank"}</span> <span class="res">[Poster](files/arx/poster_20251111_CIKM2025_QDF.pdf){:target="_blank"}</span> <span class="res">[Video 1](https://youtu.be/iSfzQc5nYfY){:target="_blank"}</span> <span class="res">[Video 2](https://youtu.be/FRxanLSjovc){:target="_blank"}</span>
 * Chongmyung Kwon, Yujin Kim, Seoeun Park, Yunji Lee, Charmgil Hong. MMM: Quantum-Chemical Molecular Representation Learning for Combinatorial Drug Recommendation. International Workshop on Predictive Intelligence In Medicine at MICCAI (PRIME-MICCAI). 2025. <span class="res">[Paper](https://link.springer.com/chapter/10.1007/978-3-032-07904-6_21){:target="_blank"}</span> <span class="res">[Slides](files/arx/slides_PRIME2025_MMM.pdf){:target="_blank"}</span> <span class="res">[Code](https://github.com/nth221/MMM){:target="_blank"}</span>
@@ -72,6 +72,17 @@ I am also interested in: (4) AI/ICT for Korean unification studies and data-driv
 
 
 #### Domestic venues
+* Soyeon Park, Charmgil Hong. Vision-Language Model-Based In-Hospital Mortality
+Prediction Using Chest X-rays and Temporal EHR Tokens. Korea Computer Congress (KCC). 2026. *(to appear)*
+* Yujin Kim, Seoeun Park, Charmgil Hong. DDI-Aware Medication Recommendation
+Using IRI-Based Quantum Chemical Representations. Korea Computer Congress (KCC). 2026. *(to appear)*
+* Seonghyun Lee, Heewon Jung, Doohee Chung, Charmgil Hong. Contrastive Learning-Based Multimodal Framework for Aligning Price Time Series with Natural Language Semantic Space. Korea Computer Congress (KCC). 2026. *(to appear)*
+* Seonghyun Lee, Shih-Yi Chien, Charmgil Hong. A BERTopic-Based Analysis of Topical Structure and Temporal Trends in AR/MR Research at the HCII (2007–2025). Korea Computer Congress (KCC). 2026. *(to appear)*
+* Heeseo Jeong, Charmgil Hong. Evidence-Grounded ADMET Prediction: An Interpretable Approach with Retrieval-Augmented LLM. Korea Computer Congress (KCC). 2026. *(to appear)*
+* Yunseong Choi, Seulkee Park, Jong-Bok Kim, Charmgil Hong. Analyzing Response Alignment and Negative Preference in Large Language Models for Negative Polarity Questions. Korea Computer Congress (KCC). 2026. *(to appear)*
+* Yunseong Choi, Seulkee Park, Jong-Bok Kim, Charmgil Hong. Metaphor Span Extraction in Korean Informal Text: An Analysis of Prompting Strategies in Large Language Models. Korea Computer Congress (KCC). 2026. *(to appear)*
+* Seoeun Park, Yujin Kim, Charmgil Hong. Drug-Induced Liver Injury Prediction
+Using Multimodal Molecular Representations. Korea Computer Congress (KCC). 2026. *(to appear)*
 * Heeseo Jeong, Dajeong Lee, Kyujin Cho, Charmgil Hong. Predictive Data Analysis-Based Modeling of Future Electric Vehicle Driving Range. KIPS Transactions on Software and Data Engineering (KTSDE). 2026. <span class="res">[Paper](https://tkips.kips.or.kr/digital-library/105675){:target="_blank"}</span>
 
 <!--2025-->
@@ -129,13 +140,15 @@ I am also interested in: (4) AI/ICT for Korean unification studies and data-driv
 
 
 
-## Non-archival Presentations <!--Workshops/Symposiums-->
+## Non-archival Workshops/Symposiums <!--Workshops/Symposiums-->
+* Yujin Kim, Charmgil Hong. A Precedent-Guided Co-Scientist for Side-Effect-Aware Drug Redesign. ICML 2026 AI for Science Workshop. 2026. *(to appear)*
 * Soyeon Park, Heeseo Jeong, Soon Sun Kim, Jae Youn Cheong, Charmgil Hong. In-Context Learning-Based Prediction of 5-Year Hepatocellular Carcinoma Risk in Chronic Hepatitis B. The Liver Week (TLW) 2026. *(to appear)*
 * Yujin Kim, Seoeun Park, Soon Sun Kim, Ji Eun Han, Hyo Jung Cho, Jae Youn Cheong, Charmgil Hong. Multimodal Clinical DILI Prediction with Quantum-derived Molecular Representation. The Liver Week (TLW) 2026. *(to appear)*
 * Seoeun Park, Yujin Kim, Soon Sun Kim, Ji Eun Han, Hyo Jung Cho, Jae Youn Cheong, Charmgil Hong. Quantum-Informed Molecular Representation Learning for Preclinical Drug-Induced Liver Injury Prediction. The Liver Week (TLW) 2026. *(to appear)*
-* Chanyoung Lee, Gyungsu Roh, Sangho Lee, Charmgil Hong. LLM-based Automatic Patent Claim Amendment via Component-level Structural Analysis. Korea Multimedia Society, Spring. 2026. *(to appear)*
-* Yejun Jung, Charmgil Hong. ST-MAD: Fairness Optimization via Threshold-centered Probability Deviation Balancing. Korea Multimedia Society, Spring. 2026. *(to appear)*
-* Youngjun Shim, Ulim Lee, Eunseo Jeong, Eunchan Jung, Charmgil Hong. Software Design for Surveillance Video Analysis and Retrieval Using Semantic Multi-modal Video Indexing. Korea Multimedia Society, Spring. 2026. *(to appear)*
+* Charmgil Hong. Designing and Implementing Introductory Courses for Responsible Engineering and AI Education: The Cases of "Introduction to Engineering Design" and "Introduction to AI" at Handong Global University. Spring Conference of Korea Association for Christian Scholarship. 2026.
+* Chanyoung Lee, Gyungsu Roh, Sangho Lee, Charmgil Hong. LLM-based Automatic Patent Claim Amendment via Component-level Structural Analysis. Korea Multimedia Society, Spring. 2026.
+* Yejun Jung, Charmgil Hong. ST-MAD: Fairness Optimization via Threshold-centered Probability Deviation Balancing. Korea Multimedia Society, Spring. 2026.
+* Youngjun Shim, Ulim Lee, Eunseo Jeong, Eunchan Jung, Charmgil Hong. Software Design for Surveillance Video Analysis and Retrieval Using Semantic Multi-modal Video Indexing. Korea Multimedia Society, Spring. 2026.
 * Heeseo Jeong, Charmgil Hong. Interpretable Evidence-grounded ADMET Prediction via Retrieval-augmented Large Language Model. Spring International Convention of the Pharmaceutical Society of Korea. 2026. <span class="award">*Distinguished Oral Presentation Award*</span>
 * Yujin Kim, Seoeun Park, Charmgil Hong. Quantum-informed Molecular Maps Complement Molecular Descriptors for Drug-induced Liver Injury Prediction. Spring International Convention of the Pharmaceutical Society of Korea. 2026.
 * Seoeun Park, Yujin Kim, Toohyun Cho, Charmgil Hong. Quantum Chemistry-derived Electronic Structure Representations for Drug Distribution and Metabolism Prediction. Spring International Convention of the Pharmaceutical Society of Korea. 2026.
