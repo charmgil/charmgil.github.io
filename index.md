@@ -40,6 +40,7 @@ I am also interested in: (4) AI/ICT for Korean unification studies and data-driv
 
 #### International venues
 
+* Heeseo Jeong, Charmgil Hong. READ-ADMET: Retrieval-Enhanced Agent for Drug ADMET Prediction. American Medical Informatics Association (AMIA) Annual Symposium. 2026. *(to appear)*
 * Soyeon Park, Doohee Chung, Charmgil Hong. Multimodal Forecasting for Commodity Prices Using Spectrogram-Based and Time Series Representations. Association for the Advancement of Artificial Intelligence 2026 Summer Symposium (AAAI-SS). 2026. *(to appear)*
 * Yujin Kim, Seoeun Park, Chongmyung Kwon, Charmgil Hong. Multimodal Drug Recommendation with Quantum Chemical Molecular Representations. International Conference on Database Systems for Advanced Applications (DASFAA). 2026. <span class="res">[Paper](https://link.springer.com/chapter/10.1007/978-981-92-0369-7_13){:target="_blank"}</span> <span class="res">[Code](https://github.com/nth221/quark){:target="_blank"}</span>
 * Eunchan Jung, Eunseo Jeong, Ulim Lee, Youngjun Shim, Charmgil Hong. Content-Grounded Semantic Identifier Construction for Surveillance Video Indexing. The 12th International Workshop on Big Data Management and Service (BDMS) at DASFAA. 2026. *(to appear)*
