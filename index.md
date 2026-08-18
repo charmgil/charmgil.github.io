@@ -40,6 +40,7 @@ I am also interested in: (4) AI/ICT for Korean unification studies and data-driv
 
 #### International venues
 
+* Yujin Kim, Seoeun Park, Charmgil Hong. IM^3: Interaction Region-Augmented Multimodal Molecular Modeling for Precision Prescription. ACM International Conference on Information and Knowledge Management (CIKM). 2026. *(to appear)*
 * Heeseo Jeong, Charmgil Hong. READ-ADMET: Retrieval-Enhanced Agent for Drug ADMET Prediction. American Medical Informatics Association (AMIA) Annual Symposium. 2026. *(to appear)*
 * Soyeon Park, Doohee Chung, Charmgil Hong. Multimodal Forecasting for Commodity Prices Using Spectrogram-Based and Time Series Representations. Association for the Advancement of Artificial Intelligence 2026 Summer Symposium (AAAI-SS). 2026. <span class="res">[Paper](https://ojs.aaai.org/index.php/AAAI-SS/article/view/42925){:target="_blank"}</span>
 * Yujin Kim, Seoeun Park, Chongmyung Kwon, Charmgil Hong. Multimodal Drug Recommendation with Quantum Chemical Molecular Representations. International Conference on Database Systems for Advanced Applications (DASFAA). 2026. <span class="res">[Paper](https://link.springer.com/chapter/10.1007/978-981-92-0369-7_13){:target="_blank"}</span> <span class="res">[Code](https://github.com/nth221/quark){:target="_blank"}</span>
@@ -74,16 +75,16 @@ I am also interested in: (4) AI/ICT for Korean unification studies and data-driv
 
 #### Domestic venues
 * Soyeon Park, Charmgil Hong. Vision-Language Model-Based In-Hospital Mortality
-Prediction Using Chest X-rays and Temporal EHR Tokens. Korea Computer Congress (KCC). 2026. *(to appear)*
+Prediction Using Chest X-rays and Temporal EHR Tokens. Korea Computer Congress (KCC). 2026. <span class="res">[Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12929636){:target="_blank"}</span>
 * Yujin Kim, Seoeun Park, Charmgil Hong. DDI-Aware Medication Recommendation
-Using IRI-Based Quantum Chemical Representations. Korea Computer Congress (KCC). 2026. *(to appear)*
-* Seonghyun Lee, Heewon Jung, Doohee Chung, Charmgil Hong. Contrastive Learning-Based Multimodal Framework for Aligning Price Time Series with Natural Language Semantic Space. Korea Computer Congress (KCC). 2026. *(to appear)*
-* Seonghyun Lee, Shih-Yi Chien, Charmgil Hong. A BERTopic-Based Analysis of Topical Structure and Temporal Trends in AR/MR Research at the HCII (2007–2025). Korea Computer Congress (KCC). 2026. *(to appear)*
-* Heeseo Jeong, Charmgil Hong. Evidence-Grounded ADMET Prediction: An Interpretable Approach with Retrieval-Augmented LLM. Korea Computer Congress (KCC). 2026. *(to appear)*
-* Yunseong Choi, Seulkee Park, Jong-Bok Kim, Charmgil Hong. Analyzing Response Alignment and Negative Preference in Large Language Models for Negative Polarity Questions. Korea Computer Congress (KCC). 2026. *(to appear)*
-* Yunseong Choi, Seulkee Park, Jong-Bok Kim, Charmgil Hong. Metaphor Span Extraction in Korean Informal Text: An Analysis of Prompting Strategies in Large Language Models. Korea Computer Congress (KCC). 2026. *(to appear)*
+Using IRI-Based Quantum Chemical Representations. Korea Computer Congress (KCC). 2026. <span class="res">[Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12929365){:target="_blank"}</span>
+* Seonghyun Lee, Heewon Jung, Doohee Chung, Charmgil Hong. Contrastive Learning-Based Multimodal Framework for Aligning Price Time Series with Natural Language Semantic Space. Korea Computer Congress (KCC). 2026. <span class="res">[Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12929623){:target="_blank"}</span>
+* Seonghyun Lee, Shih-Yi Chien, Charmgil Hong. A BERTopic-Based Analysis of Topical Structure and Temporal Trends in AR/MR Research at the HCII (2007–2025). Korea Computer Congress (KCC). 2026. <span class="res">[Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12929366){:target="_blank"}</span>
+* Heeseo Jeong, Charmgil Hong. Evidence-Grounded ADMET Prediction: An Interpretable Approach with Retrieval-Augmented LLM. Korea Computer Congress (KCC). 2026. <span class="award">*Best Paper Award*</span> <span class="res">[Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12929634){:target="_blank"}</span>
+* Yunseong Choi, Seulkee Park, Jong-Bok Kim, Charmgil Hong. Analyzing Response Alignment and Negative Preference in Large Language Models for Negative Polarity Questions. Korea Computer Congress (KCC). 2026. <span class="res">[Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12929471){:target="_blank"}</span>
+* Yunseong Choi, Seulkee Park, Jong-Bok Kim, Charmgil Hong. Metaphor Span Extraction in Korean Informal Text: An Analysis of Prompting Strategies in Large Language Models. Korea Computer Congress (KCC). 2026. <span class="res">[Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12929470){:target="_blank"}</span>
 * Seoeun Park, Yujin Kim, Charmgil Hong. Drug-Induced Liver Injury Prediction
-Using Multimodal Molecular Representations. Korea Computer Congress (KCC). 2026. *(to appear)*
+Using Multimodal Molecular Representations. Korea Computer Congress (KCC). 2026. <span class="res">[Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12929368){:target="_blank"}</span>
 * Heeseo Jeong, Dajeong Lee, Kyujin Cho, Charmgil Hong. Predictive Data Analysis-Based Modeling of Future Electric Vehicle Driving Range. KIPS Transactions on Software and Data Engineering (KTSDE). 2026. <span class="res">[Paper](https://tkips.kips.or.kr/digital-library/105675){:target="_blank"}</span>
 
 <!--2025-->
