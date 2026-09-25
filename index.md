@@ -26,12 +26,16 @@ I am an associate professor in the School of Artificial Intelligence, Computer a
 - ECE10002 C Programming
 
 ## Research Interest
-Recent years, I have been primarily working on:
+My research focuses on machine learning for heterogeneous and multimodal real-world data, with an emphasis on reliable and interpretable modeling. I am particularly interested in biomedical and industrial applications, including clinical prediction, drug safety, and forecasting for markets, prices, demand, and inventory. More recently, I have also been exploring large language models and AI agents as part of this broader research direction.
+
+I am also interested in AI/ICT for Korean unification studies and data-driven capacity building in developing countries.
+
+<!--Recent years, I have been primarily working on:
 (1) Multimodal and multi-source machine learning, including time-series, image, video, and text data;
 (2) Anomaly and outlier detection with a focus on video understanding and large-scale video indexing; and
 (3) Applications of (1) and (2) to the medical and industrial domains, including clinical decision support and electric vehicle battery analytics.
 
-I am also interested in: (4) AI/ICT for Korean unification studies and data-driven capacity building for developing countries.
+I am also interested in: (4) AI/ICT for Korean unification studies and data-driven capacity building for developing countries.-->
 
 <!--I am interested in developing and applying machine learning/data mining techniques to address large and complex data-driven problems. 
 -->
@@ -40,7 +44,11 @@ I am also interested in: (4) AI/ICT for Korean unification studies and data-driv
 
 #### International venues
 
+* Heeseo Jeong, Charmgil Hong. TEAM-ADMET: Target-aware Evidence-grounded Agent for Molecular ADMET. IEEE International Conference on Bioinformatics and Biomedicine (BIBM). 2026. *(to appear)*
 * Yujin Kim, Seoeun Park, Charmgil Hong. IM^3: Interaction Region-Augmented Multimodal Molecular Modeling for Precision Prescription. ACM International Conference on Information and Knowledge Management (CIKM). 2026. *(to appear)*
+<!--* SAFER: Attribution-Aware Precedent-Guided Drug Redesign for Side-Effect Mitigation. Clinical-MIRF: Multimodal Information Retrieval and Fusion in Clinical Workflows at CIKM. 2026.-->
+<!--* Patient-Aligned Cross-Modal Feedback for Multimodal Clinical Information Fusion. Clinical-MIRF: Multimodal Information Retrieval and Fusion in Clinical Workflows at CIKM. 2026.
+-->
 * Heeseo Jeong, Charmgil Hong. READ-ADMET: Retrieval-Enhanced Agent for Drug ADMET Prediction. American Medical Informatics Association (AMIA) Annual Symposium. 2026. *(to appear)*
 * Soyeon Park, Doohee Chung, Charmgil Hong. Multimodal Forecasting for Commodity Prices Using Spectrogram-Based and Time Series Representations. Association for the Advancement of Artificial Intelligence 2026 Summer Symposium (AAAI-SS). 2026. <span class="res">[Paper](https://ojs.aaai.org/index.php/AAAI-SS/article/view/42925){:target="_blank"}</span>
 * Yujin Kim, Seoeun Park, Chongmyung Kwon, Charmgil Hong. Multimodal Drug Recommendation with Quantum Chemical Molecular Representations. International Conference on Database Systems for Advanced Applications (DASFAA). 2026. <span class="res">[Paper](https://link.springer.com/chapter/10.1007/978-981-92-0369-7_13){:target="_blank"}</span> <span class="res">[Code](https://github.com/nth221/quark){:target="_blank"}</span>
@@ -74,6 +82,8 @@ I am also interested in: (4) AI/ICT for Korean unification studies and data-driv
 
 
 #### Domestic venues
+* Yunseong Choi, Seulkee Park, Jong-Bok Kim, Charmgil Hong. An Internal Analysis of Large Language Models for Conceptual Metaphor Judgment in Korean Informal Discourse. Annual Conference on Human & Cognitive Language Technology (HCLT). 2026. *(to appear)*
+* Seonghyun Lee, Heewon Jung, Doohee Chung, Charmgil Hong. Analysis of Self-Reported News Use and Behavioral Sensitivity in Large Language Model Price Forecasting. Annual Conference on Human & Cognitive Language Technology (HCLT). 2026. *(to appear)*
 * Soyeon Park, Charmgil Hong. Vision-Language Model-Based In-Hospital Mortality
 Prediction Using Chest X-rays and Temporal EHR Tokens. Korea Computer Congress (KCC). 2026. <span class="res">[Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12929636){:target="_blank"}</span>
 * Yujin Kim, Seoeun Park, Charmgil Hong. DDI-Aware Medication Recommendation
