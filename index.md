@@ -44,6 +44,7 @@ I am also interested in: (4) AI/ICT for Korean unification studies and data-driv
 
 #### International venues
 
+* Hannah Hyesun Chun, DongNyeong Heo, Heeyoul Choi, Charmgil Hong. Back-Translation for Low-Resource North-South Korean Neural Machine Translation. Language Resources and Evaluation. 2026. *(to appear)*
 * Seonghyun Lee, Heewon Jung, Doohee Chung, Charmgil Hong. CAST: Contrastive Alignment of Series and Text for Commodity Price Forecasting. Pacific Asia Conference on Language, Information, and Computation (PACLIC). 2026. *(to appear)*
 * Yunseong Choi, Seulkee Park, Jong-Bok Kim, Charmgil Hong. Evaluating Korean NLI Models on Monotonicity and Negation. Pacific Asia Conference on Language, Information, and Computation (PACLIC). 2026. *(to appear)*
 * Heeseo Jeong, Charmgil Hong. TEAM-ADMET: Target-aware Evidence-grounded Agent for Molecular ADMET. IEEE International Conference on Bioinformatics and Biomedicine (BIBM). 2026. *(to appear)*
